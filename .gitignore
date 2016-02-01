@@ -1,3 +1,6 @@
 node_modules
 
 tutorial-ts/app/*.js*
+
+webpack/src/scripts/*
+webpack/src/styles/*
